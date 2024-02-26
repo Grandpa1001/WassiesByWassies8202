@@ -20,8 +20,8 @@ export default function App() {
   return (
   <MantineProvider theme={theme}>    
     <CharacterAnimationsProvider>
-      <Canvas camera={{ position: [0, 4, 10], fov: 80 }} shadows> 
-              <Experience />
+    <Canvas camera={{ position: [0, 4, 10], fov: 80 }} shadows> 
+    <Experience />
             </Canvas>
       <Interface />
     </CharacterAnimationsProvider>
