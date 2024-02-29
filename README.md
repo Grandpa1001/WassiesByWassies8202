@@ -37,3 +37,6 @@ Dificult option [How to add more than one animation to first character]
 fix .jsx about const export method
 
 
+
+--add fix model
+
